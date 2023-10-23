@@ -21,7 +21,6 @@ For our dataset, we have a total of 158 enteries of observed patients with recor
 # Machine Learning Models (Before Model Deployment)
 1. Before machine learning models are built, let us look at a process flow which takes place
 
-![image](https://github.com/martfem13/KaggleX_Data-Science_Project/assets/94946814/c08f402b-fa97-43e2-9fd0-37fc661f8b7e)
 
 
 
