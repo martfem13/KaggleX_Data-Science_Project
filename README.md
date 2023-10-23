@@ -19,4 +19,5 @@ The data set outputs 0's and 1's with 0's representing all observed patients wit
 For our dataset, we have a total of 158 enteries of observed patients with records or technically attributes such as blood pressure, albumin, specific gravity, red blood cells, white blood cells, age, pus cell, Sodium creatinine, pus cell clumps, bacteria, blood glucose random, sodium, potassium, haemoglobin, anemia, coronary artery disease, diabetes mellitus, appetite, class, blood urea, age, etc
 
 # Machine Learning Models (Before Model Deployment)
-1. Before machine learning models are built, let us look at a process flow which takes place 
+1. Before machine learning models are built, let us look at a process flow which takes place
+
