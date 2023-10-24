@@ -22,7 +22,7 @@ For our dataset, we have a total of 158 enteries of observed patients with recor
 1. Before machine learning models are built, let us look at a process flow which takes place
 ![image](https://github.com/martfem13/KaggleX_Data-Science_Project/assets/94946814/c1594440-e459-47b4-9ae5-d566925bafca)
 
-In our dataset, there are the x-cordinates and the y-cordinates. 
+In our dataset, there are the x-cordinates and the y-cordinates. Updating
 
 
 
