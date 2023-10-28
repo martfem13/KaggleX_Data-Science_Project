@@ -24,7 +24,7 @@ For our dataset, we have a total of 158 enteries of observed patients with featu
 ![image](https://github.com/martfem13/KaggleX_Data-Science_Project/assets/94946814/c1594440-e459-47b4-9ae5-d566925bafca)
 
 In our dataset, there are the x-cordinates and the y-cordinates. We choose the K-nearest classifier to train our labeled data on.
+Scatterplots were analyzed using an intuitive strategy. K-nn with a k-value of 3 is used to train and test model to make predictions on the new data points.
 
-
-
+See code for full content to ckd prediction code 
 
