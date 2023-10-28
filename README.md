@@ -11,20 +11,20 @@ In doing this I endeavor to deploy relevant Machine Learning Model techniques to
    UCL ML https://catalog.registrar.ucla.edu/course/2022/COMSCIM146?siteYear=2022
    Art and Science website https://artofstat.com/datasets
 2. Neccessary libraries are imported to help us analyse the dataset
-3. Performing Exploratory Data Analysis (Data set is explored to get more insights from it)
-4. Scatter plot visualizations are build to create meaningful visualization form data set
+3. Performing Exploratory Data Analysis (Data set is explored to get more insights from dataset)
+4. Scatter plot visualizations are build to create meaningful visualization from dataset
 
 # Analysis
-The data set outputs 0's and 1's with 0's representing all observed patients with no Chronic Kidney Disease and 1's representing all observed patients with Chronic Kidney Disease. 
-For our dataset, we have a total of 158 enteries of observed patients with records or technically attributes such as blood pressure, albumin, specific gravity, red blood cells, white blood cells, age, pus cell, Sodium creatinine, pus cell clumps, bacteria, blood glucose random, sodium, potassium, haemoglobin, anemia, coronary artery disease, diabetes mellitus, appetite, class, blood urea, age, etc
+The data set outputs 0's and 1's with 0's of 115 in total representing all observations with no Chronic Kidney Disease and 1's of 43 in total representing all observations with Chronic Kidney Disease. 
+For our dataset, we have a total of 158 enteries of observed patients with features such as blood pressure, albumin, specific gravity, red blood cells, white blood cells, age, pus cell, Sodium creatinine, pus cell clumps, bacteria, blood glucose random, sodium, potassium, haemoglobin, anemia, coronary artery disease, diabetes mellitus, appetite, class, blood urea, age, etc
 
 # Machine Learning Models (Before Model Deployment)
+
 1. Before machine learning models are built, let us look at a process flow which takes place
 ![image](https://github.com/martfem13/KaggleX_Data-Science_Project/assets/94946814/c1594440-e459-47b4-9ae5-d566925bafca)
 
-In our dataset, there are the x-cordinates and the y-cordinates. Updating
+In our dataset, there are the x-cordinates and the y-cordinates. We choose the K-nearest classifier to train our labeled data on.
 
-update
 
 
 
